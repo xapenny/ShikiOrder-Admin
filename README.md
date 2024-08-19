@@ -49,10 +49,6 @@ yarn build
 
 本项目采用 MIT 许可证，详情请参见 [LICENSE](LICENSE) 文件。
 
-## 联系我们
-
-如果您有任何问题或建议，请通过 [issues](https://github.com/your-repo/ShikiOrder-Admin/issues) 联系我们。
-
 ---
 
 感谢您对 ShikiOrder Admin Dashboard 的关注与支持！
