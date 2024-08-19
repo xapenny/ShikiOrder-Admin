@@ -33,16 +33,16 @@ ShikiOrder Admin Dashboard 是为 ShikiOrder 点餐小程序提供支持的管�
 yarn install
 ```
 
-### 开发模式(微信小程序)
+### 开发模式
 
 ```sh
-yarn dev:weapp
+yarn dev
 ```
 
-### 生产构建(微信小程序)
+### 生产构建
 
 ```sh
-yarn build:weapp
+yarn build
 ```
 
 ## 许可证
